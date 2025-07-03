@@ -28,6 +28,7 @@ p {
 main {
     max-width: 840px;
     text-align: center;
+    width: auto;
 }
 
 aside {
